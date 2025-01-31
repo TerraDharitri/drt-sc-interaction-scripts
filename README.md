@@ -1,1 +1,0 @@
-# drt-sc-interaction-scripts
